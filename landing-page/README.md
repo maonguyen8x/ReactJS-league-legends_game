@@ -25,6 +25,7 @@ ReactJS Game Landing Page - ReactJS SASS ViteJS
 ### Home 
 
 
-![Home](src/assets/images/screenshots/Home.png)
-
-![Home](src/assets/images/screenshots/Home.png)
+![Home](src/assets/images/screenshots/Home_1.png)
+![Home](src/assets/images/screenshots/Home_2.png)
+![Home](src/assets/images/screenshots/Home_3.png)
+![Home](src/assets/images/screenshots/Home_4.png)

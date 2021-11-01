@@ -1,5 +1,4 @@
 import React from 'react'
-
 import './header.scss'
 
 import { logo } from '../../assets/images'
